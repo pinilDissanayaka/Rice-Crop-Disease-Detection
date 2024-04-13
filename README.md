@@ -8,7 +8,7 @@ The dataset has been divided into two groups, train and validation.
 
 Inside the two folders are 4 categories of types:
 
--BrownSpot
--Healthy
--Hispa
--LeafBlast
+- BrownSpot
+- Healthy
+- Hispa
+- LeafBlast
